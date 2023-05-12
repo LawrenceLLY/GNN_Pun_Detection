@@ -1,6 +1,6 @@
 # GNN for Puns Detection and Location
-## SemEval-2017 Task 7
-## This is the Final Project of COSC-572 Empirical Methods in Natural Language Processing (ENLP)
+### SemEval-2017 Task 7
+### This is the Final Project of COSC-572 Empirical Methods in Natural Language Processing (ENLP)
 Pun Detection: https://alt.qcri.org/semeval2017/task7/
 ## The Project including two tasks:
 ### Subtask 1: Pun detection.
