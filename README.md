@@ -1,5 +1,5 @@
 # Multi-Task Learning for Pun Detection and Location with EERT and Graph Convolutional Neural Networks
-## SemEval-2017 Task 7
+### SemEval-2017 Task 7
 https://alt.qcri.org/semeval2017/task7/
 ### This is the Final Project of COSC-572 Empirical Methods in Natural Language Processing, Spring 2023, Georgetown University
 ## The Project is including two tasks:
