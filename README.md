@@ -2,7 +2,7 @@
 ### SemEval-2017 Task 7
 https://alt.qcri.org/semeval2017/task7/
 ### This is the Final Project of Group 4, COSC-572 Empirical Methods in Natural Language Processing, Spring 2023, Georgetown University
-Course webpage:\
+Course Webpage:\
 https://people.cs.georgetown.edu/nschneid/cosc572/s23/index.html
 ## The Project is including two tasks:
 ### Subtask 1: Pun detection
