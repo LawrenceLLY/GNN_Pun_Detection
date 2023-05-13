@@ -5,7 +5,7 @@ https://alt.qcri.org/semeval2017/task7/
 Course Webpage:\
 https://people.cs.georgetown.edu/nschneid/cosc572/s23/index.html
 ### The Final Model is:
-**BERT_GNN_MTL_Control_BiLSTM_v4.ipynb**
+**BERT_GNN_MTL_Control_BiLSTM_v4.ipynb**\
 https://github.com/LawrenceLLY/GNN_Pun_Detection_and_Location/blob/main/BERT_GNN_MTL_Control_BiLSTM_v4.ipynb
 ## The Project is Including Two Tasks:
 ### Subtask 1: Pun detection
