@@ -4,7 +4,7 @@ https://alt.qcri.org/semeval2017/task7/
 ### This is the Final Project of Group 4, COSC-572 Empirical Methods in Natural Language Processing, Spring 2023, Georgetown University
 Course Webpage:\
 https://people.cs.georgetown.edu/nschneid/cosc572/s23/index.html
-## The Project is including two tasks:
+## The Project is Including Two Tasks:
 ### Subtask 1: Pun detection
 For this subtask, participants are given an entire raw data set. For each context, the system must decide whether or not it contains a pun.
 ### Subtask 2: Pun location
