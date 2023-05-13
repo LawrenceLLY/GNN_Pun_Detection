@@ -9,7 +9,7 @@ For this subtask, participants are given an entire raw data set. For each contex
 ### Subtask 2: Pun location
 For this subtask, the contexts not containing puns are removed from the data set. For each context, the system must identify which word is the pun.
 ## Environment:
-Google Colab (with Python 3)
+Google Colab (with Python 3)\
 https://colab.research.google.com/
 ## Usage:
 The file name of each file contains the models which it used.\
